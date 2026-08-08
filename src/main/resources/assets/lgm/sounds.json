@@ -1,0 +1,25 @@
+{
+  "maximum_effort_shoot": {
+    "subtitle": "sound.lgm.maximum_effort_shoot",
+    "sounds": [
+      {
+        "name": "lgm:maximum_effort/fire",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+
+  "maximum_effort_melee": {
+    "subtitle": "sound.lgm.maximum_effort_melee",
+    "sounds": [
+      {
+        "name": "lgm:maximum_effort/melee",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  }
+}

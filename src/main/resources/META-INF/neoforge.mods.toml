@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All rights reserved"
+
+[[mods]]
+modId="lgm"  # замените на ваш modId, который вы используете в коде
+version="1.0.0"
+displayName="The Age Of Guns"
+logoFile="examplemod.png"
+credits="Thanks to M47"
+authors="LoFrust"
+description="This mod add cool guns!"
+
+#[[dependencies.lgm]]    # замените lgm на свой modId
+#modId="minecraft"
+#mandatory=true
+#versionRange="[1.21.1,1.22)"
+#ordering="NONE"
+#side="BOTH"
